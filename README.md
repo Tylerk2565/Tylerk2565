@@ -12,7 +12,6 @@ I'm a software engineering apprentice passionate about building **impactful appl
 
 ### 🌟 Featured Projects:
 🔹 **[Prestige Performance](https://github.com/Tylerk2565/React-Ecommerce-Updated)** – Full stack exotic car website (React, MySQL) 🔗 [Live Demo](https://react-ecommerce-updated.onrender.com/)
-🔹 **[Another Project](https://github.com/your-repo)** – Brief description (Automation, AI) 🔗 [Live Demo](#)
 
 ### 📫 Let's Connect:
 - LinkedIn: [Your LinkedIn](#)
