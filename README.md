@@ -14,8 +14,7 @@ I'm a software engineering apprentice passionate about building **impactful appl
 🔹 **[Prestige Performance](https://github.com/Tylerk2565/React-Ecommerce-Updated)** – Full stack exotic car website (React, MySQL) 🔗 [Live Demo](https://react-ecommerce-updated.onrender.com/)
 
 ### 📫 Let's Connect:
-- LinkedIn: [Your LinkedIn](#)
+- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/tyler-krug-5600a4148/)
 - Portfolio: [Coming Soon!]
-- Email: [your.email@example.com]
 
 🚀 Always learning and always building! Feel free to connect or check out my work. 🎉
