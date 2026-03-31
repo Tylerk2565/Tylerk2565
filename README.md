@@ -5,9 +5,9 @@
 I'm a software engineering apprentice passionate about building **impactful applications**. My journey started with **game development** and evolved into **full-stack web development, automation, and AI integration**. I'm always eager to **learn, collaborate, and solve problems** in creative ways!
 
 ### 🛠️ Tech Stack & Skills:
-- **Frontend:** HTML, CSS, JavaScript, React, Tailwind, Sass
-- **Backend:** Node.js, MySQL, Handlebars, NPM
-- **Tools & Platforms:** Git, GitHub, VS Code
+- **Languages:** HTML, CSS, JavaScript, TypeScript, C#, SQL, Python
+- **Frameworks & Libraries:** React, Angular, .NET MVC, Tailwind
+- **Tools & Platforms:** Git, GitHub, VS Code, Visual Studio, SSMS, Bitbucket
 - **Other Interests:** AI, Chatbots, Game Development (Unity, Unreal Engine)
 
 ### 🌟 Featured Projects:
